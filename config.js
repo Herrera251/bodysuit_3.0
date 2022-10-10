@@ -4,14 +4,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['573245194054', '𝙾𝙵𝙲 alex', true],
   ['5212412377467'],
   ['5212411719888'],
   ['5212411453522'],
 ]
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['573245104054'], 
 global.prems = [] 
 global.APIs = { 
   amel: 'https://melcanz.com',
@@ -66,7 +66,7 @@ global.APIKeys = {
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
+global.packname = '☘️𝐓𝐇𝐄_𝘽𝙊𝘿𝙔𝙎𝙐𝙄𝙏 _𝐁𝐎𝐓📚'
 global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -77,7 +77,7 @@ global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
+global.gt = '☘️𝐓𝐇𝐄_𝘽𝙊𝘿𝙔𝙎𝙐𝙄𝙏 _𝐁𝐎𝐓📚'
 global.hadesbot = gt
 
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
