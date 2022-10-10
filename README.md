@@ -31,7 +31,7 @@ Bot terminado no recibirá más actualizaciones ✨
 │◦➛🍀ᩭ✎pkg install ffmpeg -y
 │◦➛🍀ᩭ✎pkg install imagemagick -y
 │◦➛🍀ᩭ✎termux-setup-storage
-│◦➛🍀ᩭ✎git clone https://github.com/Yovanihades1212/MIKU_BOT.git
+│◦➛🍀ᩭ✎git clone https://github.com/Herrera251/bodysuit_3.0
 │◦➛🍀ᩭ✎cd MIKU_BOT
 │◦➛🍀ᩭ✎npm install
 │◦➛🍀ᩭ✎pkg install yarn
