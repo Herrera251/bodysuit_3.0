@@ -69,7 +69,7 @@ Bot terminado no recibirá más actualizaciones ✨
 
 * [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
 ## `PORPIETARIO DEL BOT` 
-[![Yovanihades1212](https://i.imgur.com/whjPeyh.jpeg)](https://github.com/Yovanihades1212/MIKU_BOT.git) 
+[![Yovanihades1212](https://github.com/Herrera251/bodysuit_3.0/blob/main/Menu2.jpg)](https://github.com/Yovanihades1212/MIKU_BOT.git) 
 ```bash
 
 
